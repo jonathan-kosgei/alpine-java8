@@ -1,5 +1,7 @@
 # Alpine Java8
 
+**_Image size:_** 72 mb
+
 ## Getting Started
 
 To use this image run
