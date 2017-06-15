@@ -7,13 +7,13 @@
 To use this image run
 
 ```
-docker pull jkosgei/java8:alpine-java:8
+docker pull jkosgei/alpine-java8
 ```
 
 To use this image as a base for you java8 dependent application, use
 
 ```
-FROM jkosgei/java8:alpine-java:8
+FROM jkosgei/alpine-java8
 ...
 ```
 
